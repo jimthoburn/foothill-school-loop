@@ -98,7 +98,7 @@
   a,
   a:link,
   a:visited {
-    color: rgb(57, 164, 208);
+    color: rgb(53, 124, 192);
   }
 
   a:hover,
@@ -115,7 +115,7 @@
     background-image: none;
     background-color: transparent;
     border-width: 0;
-    color: rgb(57, 164, 208);
+    color: rgb(53, 124, 192);
     font-weight: inherit;
     text-decoration: underline;
   }
@@ -138,7 +138,7 @@
     font-weight: inherit;
     text-transform: uppercase;
     font-family: "Roboto Slab", "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
-    color: rgb(57, 164, 208);
+    color: rgb(53, 124, 192);
   }
 
   .link_list h2,
@@ -152,7 +152,7 @@
     font-weight: inherit;
     text-transform: inherit;
     background-image: none;
-    color: rgb(57, 164, 208);
+    color: rgb(53, 124, 192);
     padding-left: 0;
   }
 
@@ -173,7 +173,7 @@
     text-transform: uppercase;
     text-transform: inherit;
     background-image: none;
-    color: rgb(57, 164, 208);
+    color: rgb(53, 124, 192);
     padding-left: 25px;
   }
 
@@ -250,7 +250,7 @@
 
   .nav_public {
     background-image: none;
-    border-color: rgb(57, 164, 208);
+    border-color: rgb(53, 124, 192);
   }
 
   .footer_footnote {
@@ -279,7 +279,7 @@
   .nav_public {
     height: auto;
     min-height: 32px;
-    background: rgb(57, 164, 208);
+    background: rgb(53, 124, 192);
     color: rgba(255, 255, 255, 0.9);
   }
 

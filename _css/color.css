@@ -3,9 +3,7 @@
   /* =Color
   ----------------------------------------------- */
   :root {
-    --light-blue: rgb(57, 164, 208);
-    --lighter-blue: rgb(114, 211, 255);
-    --saturated-blue: rgb(42, 169, 255);
+    --light-blue: rgb(53, 124, 192);
 
     --tungsten: rgb(40, 41, 43);
   }
