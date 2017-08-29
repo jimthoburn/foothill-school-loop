@@ -1,7 +1,7 @@
-# Azusa High School
+# Foothill Middle School
 
-This is a design prototype for the Azusa High School website. You can view the site here:
-http://gladstonehighschool.jimthoburn.com
+This is a design prototype for the Foothill Middle School website on School Loop. You can view the site here:
+http:/foothillmiddleschool.jimthoburn.com
 
 ## How to make changes
 
