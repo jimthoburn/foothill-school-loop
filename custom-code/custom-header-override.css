@@ -73,12 +73,14 @@
   }
 
   .azusa-about #container_header {
-    background-image: url(images/students.jpg) !important;
-    background-position: center !important;
+    background-image: url(images/two-students.png) !important;
+    background-position: bottom !important;
+    background-size: contain !important;
+    background-repeat: no-repeat;
   }
 
   .azusa-staff #container_header {
-    background-image: url(images/students.jpg) !important;
+    background-image: url(images/principal.jpg) !important;
     background-position: center !important;
   }
 
