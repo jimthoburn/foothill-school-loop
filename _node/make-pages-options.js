@@ -51,6 +51,8 @@ exports.FOOTER_HTML = `
   <p><strong>Sam Perdomo, Principal</strong><br /><a href="mailto:sperdomo@azusa.org">sperdomo@azusa.org</a></p>
   <p><strong>Shanti Molina, Assistant Principal</strong><br /><a href="mailto:smolina@azusa.org">smolina@azusa.org</a></p>
   <p><strong>Steve Scott, Counselor</strong><br /><a href="mailto:sscott@azusa.org">sscott@azusa.org</a></p>
+  <p><strong>Jackie Gonzalez, School Secretary</strong><br /><a href="mailto:jgonzalez@azusa.org">jgonzalez@azusa.org</a></p>
+
 </div>
 
 <div class="legal">
