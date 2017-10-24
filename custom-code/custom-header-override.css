@@ -8,7 +8,10 @@
 
   .nav_public {
     top: 0;
-    background-image: none !important;
+    background-image: url(images/pattern.png) !important;
+    background-repeat: repeat !important;
+    background-size: 27px auto !important;
+    background-position: 50% 25% !important;
     padding-bottom: 0em;
     background-color: rgb(36, 101, 179); /* --light-blue */
   }
@@ -46,10 +49,11 @@
   }
 
   #container_home_header {
-    background-image: url(images/students.png) !important;
+
+    background-image: url(images/five-students.png), url(images/trojans.jpg) !important;
+    background-position: bottom, center !important;
+    background-size: auto 70%, cover !important;
     background-repeat: no-repeat;
-    background-position: 50% 25vh !important;
-    background-size: cover !important;
   }
   #container_home_header,
   .azusa-home-introduction {
@@ -73,10 +77,8 @@
   }
 
   .azusa-about #container_header {
-    background-image: url(images/two-students.png) !important;
-    background-position: bottom !important;
-    background-size: contain !important;
-    background-repeat: no-repeat;
+    background-image: url(images/band.jpg) !important;
+    background-position: center !important;
   }
 
   .azusa-staff #container_header {
